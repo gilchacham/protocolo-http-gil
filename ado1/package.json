@@ -12,9 +12,9 @@
   },
   "license": "ISC",
   "author": "gil",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "dev"
+     "dev": "index.js"
   }
 }
