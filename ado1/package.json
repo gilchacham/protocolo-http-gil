@@ -1,0 +1,20 @@
+{
+  "name": "ado1",
+  "version": "1.0.0",
+  "description": "ado1 ld",
+  "homepage": "https://github.com/gilchacham/protocolo-http-gil#readme",
+  "bugs": {
+    "url": "https://github.com/gilchacham/protocolo-http-gil/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilchacham/protocolo-http-gil.git"
+  },
+  "license": "ISC",
+  "author": "gil",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  }
+}
